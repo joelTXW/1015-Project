@@ -56,5 +56,5 @@ https://hospitalitytech.com/global-cancellation-rate-hotel-reservations-reaches-
 
 Contributors:\
 Joel Tan Xin Wei - Data Cleaning, Machine Learning\
-Philip Han - Exploratory Data Analysis, Data Visualisation\
+Philip Han - Exploratory Data Analysis, Data Visualisation
 
