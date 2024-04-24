@@ -10,7 +10,7 @@ Contains .csv files of initially downloaded dataset (Hotel Reservations.csv), as
 
 ### Data Cleaning Notebook (Data Cleaning.ipynb)
 Our group performs data cleaning on the downloaded dataset. This includes
-- Removing invalid data (invalid dates, 0 number of people booking, number of weekdays and weeknights are 0 combined)
+- Removing invalid data (invalid dates, 0 number of people booking, number of weekdays and weekends are 0 combined)
 - Combining arrival year, month and date into a single variable “arrival datetime”
 - Encoding variables (e.g. room type) into machine readable categorical values\
 We proceed to output this to a new .csv file for analysis.
