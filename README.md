@@ -51,8 +51,8 @@ For all analysis of variables, data visualisation in the form of catplots, boxpl
 - Advantages/Disadvantages of each learning model
 
 References:\
-https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset\
-https://hospitalitytech.com/global-cancellation-rate-hotel-reservations-reaches-40-average\
+https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset \
+https://hospitalitytech.com/global-cancellation-rate-hotel-reservations-reaches-40-average \
 
 Contributors:\
 Joel Tan Xin Wei - Data Cleaning, Machine Learning\
